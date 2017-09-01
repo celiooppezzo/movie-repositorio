@@ -1,0 +1,6 @@
+G:\Meu\ColecaoVideos\Aplicativo\Movie\GUI\obj\Debug\GUI.Properties.Resources.resources
+G:\Meu\ColecaoVideos\Aplicativo\Movie\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+G:\Meu\ColecaoVideos\Aplicativo\Movie\GUI\bin\Debug\GUI.exe
+G:\Meu\ColecaoVideos\Aplicativo\Movie\GUI\bin\Debug\GUI.pdb
+G:\Meu\ColecaoVideos\Aplicativo\Movie\GUI\obj\Debug\GUI.exe
+G:\Meu\ColecaoVideos\Aplicativo\Movie\GUI\obj\Debug\GUI.pdb
